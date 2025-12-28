@@ -1,0 +1,7 @@
+{
+  "name": "Dukaan Chennai - Local Store",
+  "description": "A professional, mobile-first eCommerce platform optimized for local Indian businesses with UPI integration, WhatsApp support, and a modern shopping experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
